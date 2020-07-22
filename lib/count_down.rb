@@ -5,3 +5,5 @@ def count_down
 until count = 0 do
   puts "#{count}"
 end
+puts "Happy New Year"
+end
